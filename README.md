@@ -30,7 +30,7 @@ Software development principles, patterns & practices being applied:
 
  - 3 layers : Controllers - Services - Repositories (this is too trivial).
 
- - Hexagonal pattern (applied for DTOs): all dtos is centred by Model DTO, no direct mapping from one another without Model DTO.
+ - Hexagonal pattern (applied for DTOs): all DTOs is centred by Model DTOs, no direct mapping from one to another without mapping through Model DTOs (except client request/response DTOs).
 
 ![image](https://user-images.githubusercontent.com/41773948/116012376-4af58480-a654-11eb-8dde-07633295ede0.png)
 
