@@ -39,6 +39,6 @@ Software development principles, patterns & practices being applied:
 ![image](https://user-images.githubusercontent.com/41773948/116012851-4da5a900-a657-11eb-8d24-4a149599eec4.png)
 
 
- - SOLID (partially)
+ - S.O.L.I.D (partially)
 
 
