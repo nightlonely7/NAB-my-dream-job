@@ -3,10 +3,10 @@ This is my NAB java coding challenge project.
 
 These are github repositories url for all services related:
 
-Product Service: https://github.com/nightlonely7/smart-choice-product-service
-Product Price Service: https://github.com/nightlonely7/smart-choice-product-price-service
-Log Service:
-Configuration: https://github.com/nightlonely7/nab-smart-choice-configuration
+- Product Service: https://github.com/nightlonely7/smart-choice-product-service
+- Product Price Service: https://github.com/nightlonely7/smart-choice-product-price-service
+- Log Service:
+- Configuration: https://github.com/nightlonely7/nab-smart-choice-configuration
 
 
 =========================================================
