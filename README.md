@@ -41,7 +41,7 @@ Software development principles, patterns & practices being applied:
  - Hexagonal pattern (applied for DTOs): all DTOs is centred by Model DTOs, no direct mapping from one to another without mapping through Model DTOs (except client request/response DTOs).
 
 
-![image](https://user-images.githubusercontent.com/41773948/116012376-4af58480-a654-11eb-8dde-07633295ede0.png)
+![image](https://user-images.githubusercontent.com/41773948/116116201-18479c80-a6e5-11eb-8e1c-b5359e73efd9.png)
 
  
  - State pattern: all product price sync scheduled methods can be implemented differently based on partner.
