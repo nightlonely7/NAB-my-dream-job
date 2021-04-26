@@ -20,7 +20,7 @@ Project's ERD:
 
 Project's Solution Diagram:
 
-![image](https://user-images.githubusercontent.com/41773948/116012389-66608f80-a654-11eb-82e6-d7b53253ffa2.png)
+![image](https://user-images.githubusercontent.com/41773948/116116722-aa4fa500-a6e5-11eb-8465-ea8404594f38.png)
 
 
 
