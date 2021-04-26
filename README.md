@@ -56,6 +56,7 @@ Software development principles, patterns & practices being applied:
 
 Folder structure and the key Java libraries and frameworks being used:
 
+```
 .
 ├── _config.yml
 ├── _drafts
@@ -74,6 +75,7 @@ Folder structure and the key Java libraries and frameworks being used:
 │   └── members.yml
 ├── _site
 └── index.html
+```
 
 | First Header  | Second Header |
 | ------------- | ------------- |
