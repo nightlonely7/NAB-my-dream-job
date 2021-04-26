@@ -47,7 +47,7 @@ Software development principles, patterns & practices being applied:
  - State pattern: all product price sync scheduled methods can be implemented differently based on partner.
 
 
-![image](https://user-images.githubusercontent.com/41773948/116012851-4da5a900-a657-11eb-8d24-4a149599eec4.png)
+![image](https://user-images.githubusercontent.com/41773948/116015161-944cd080-a662-11eb-84c0-955ccb7298d8.png)
 
 
 - S.O.L.I.D
