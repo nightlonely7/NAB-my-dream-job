@@ -26,7 +26,7 @@ Project's Solution Diagram:
 
 Project's Architecture Diagram:
 
-![image](https://user-images.githubusercontent.com/41773948/116015040-1f799680-a662-11eb-9ff9-9a9536cf4465.png)
+![image](https://user-images.githubusercontent.com/41773948/116112738-0adce300-a6e2-11eb-9c58-f8189f0623ee.png)
 
 
 
