@@ -14,7 +14,7 @@ These are GitHub repository URLs for all related services:
 
 Project's ERD: 
 
-![image](https://user-images.githubusercontent.com/41773948/116013155-d3762400-a658-11eb-856f-f37731274d7b.png)
+![image](https://user-images.githubusercontent.com/41773948/116113156-6f983d80-a6e2-11eb-9dd4-751c5f3b1109.png)
 
 
 
