@@ -90,6 +90,7 @@ Folders:
 Libraries/Frameworks:
 
 | Library/Framework | Description |
+| ------------- | ------------- |
 | Spring Boot | Today's de-facto standard that Java applications cannot be without. |
 | Spring Data Jpa | More abstraction above Hibernate ORM libs leads to faster development. |
 | Open Feign | Makes writing java http clients easier and declaratively, especially in Spring Cloud environment via service-id mapping through Eureka, client-side load balancing, etc. |
