@@ -78,24 +78,14 @@ Folders:
 | Folder  | Description |
 | ------------- | ------------- |
 | configuration  | Configuration classes for specific technologies configuration. |
-| dto  | contains DTOs (Data Transfer Object) as POJO Java class, there're sub folders corresponding to their functionality (httprequest, httpresponse, entity ...). |
+| dto  | Contains DTOs (Data Transfer Object) as POJO Java class, there're sub folders corresponding to their functionality (httprequest, httpresponse, entity ...). |
 | feignclient | Open Feign interfaces for REST Client implementation (see Open Feign Library below). |
 | filter | Servlet filters. |
-| input | includes Http APIs, Events, Kafka Listeners, Schedulers, etc. They're application triggers, I put all of them in 'input' folder for practical uses. |
-| property | configurable properties, can be reloaded via refresh endpoint. |
+| input | Includes Http APIs, Events, Kafka Listeners, Schedulers, etc. They're application triggers, I put all of them in 'input' folder for practical uses. |
+| property | Configurable properties, can be reloaded via refresh endpoint. |
 | repository | Jpa Repository interfaces for Spring Data Jpa implementations. |
-| service | main logic computation here. |
-| utility | utility classes. |
-
-- configuration: Configuration classes for specific technologies configuration.
-- dto: contains DTOs (Data Transfer Object) as POJO Java class, there're sub folders corresponding to their functionality (httprequest, httpresponse, entity ...).
-- feignclient: Open Feign interfaces for REST Client implementation (see Open Feign Library below).
-- filter: Servlet filters.
-- input: includes Http APIs, Events, Kafka Listeners, Schedulers, etc. They're application triggers, I put all of them in 'input' folder for practical uses.
-- property: configurable properties, can be reloaded via refresh endpoint.
-- repository: Jpa Repository interfaces for Spring Data Jpa implementations. 
-- service: main logic computation here.
-- utility: utility classes.
+| service | Main logic computation here. |
+| utility | Utility classes. |
 
 Libraries/Frameworks:
 
