@@ -1,7 +1,7 @@
 
-This is my NAB java coding challenge project.
+This is my NAB Java coding challenge project.
 
-These are github repositories url for all services related:
+These are GitHub repository URLs for all related services:
 
 - Product Service: https://github.com/nightlonely7/smart-choice-product-service
 - Product Price Service: https://github.com/nightlonely7/smart-choice-product-price-service
@@ -21,6 +21,12 @@ Project's ERD:
 Project's Solution Diagram:
 
 ![image](https://user-images.githubusercontent.com/41773948/116012389-66608f80-a654-11eb-82e6-d7b53253ffa2.png)
+
+
+
+Project's Architecture Diagram:
+
+![image](https://user-images.githubusercontent.com/41773948/116015040-1f799680-a662-11eb-9ff9-9a9536cf4465.png)
 
 
 
