@@ -89,18 +89,18 @@ Folders:
 
 Libraries/Frameworks:
 
-- Spring Boot: today's de-facto standard that Java applications cannot be without.
-- Spring Data Jpa: more abstraction above Hibernate ORM libs leads to faster development.
-- Open Feign: makes writing java http clients easier, especially in Spring Cloud environment via service-id mapping through Eureka, client-side load balancing, etc.
-- Spring Kafka: Spring's support library for Kafka Server.
-- Spring Redis: Spring's support library for Redis Server.
-- H2 Database: embedded database for fast development only, not preferred for production.
-- Lombok: reduces Java's boiler-plate codes like getters, setters.
-- Mapstruct: auto mapping DTOs, which is essential when applying hexagonal pattern (you mapping DTOs a lot!).
-- Spring Cloud Config, Discovery Client: part of Spring microservices implementations.
-- Spring Actuator: apply production-ready features like heath checking, restart, refresh configurations, shutdown, etc.
-- Spring Boot Devtools: make it easier for developers.
-
+| Library/Framework | Description |
+| Spring Boot | Today's de-facto standard that Java applications cannot be without. |
+| Spring Data Jpa | More abstraction above Hibernate ORM libs leads to faster development. |
+| Open Feign | Makes writing java http clients easier and declaratively, especially in Spring Cloud environment via service-id mapping through Eureka, client-side load balancing, etc. |
+| Spring Kafka | Spring's support library for Kafka Server. Kafka is an excellent message broker that can scale up easily in big microservice systems. |
+| Spring Redis | Spring's support library for Redis Server. Redis is an in-memory data structure store, used as a database, cache, and message broker. I use it as a cache. |
+| H2 Database | Embedded database for fast development only, not preferred for production. |
+| Lombok | Reduces Java's boiler-plate codes like getters, setters. |
+| Mapstruct | Auto mapping DTOs, which is essential when applying hexagonal pattern (you mapping DTOs a lot!). |
+| Spring Cloud Counterparts (Config, Discovery Client, Gateway, Oauth2, etc) | Spring microservice's implementations. |
+| Spring Actuator | Apply production-ready features like heath checking, restart, refresh configurations, shutdown, etc. |
+| Spring Boot Devtools | Make it easier for developers. |
 
 ======================================================
 
