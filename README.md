@@ -99,7 +99,7 @@ Libraries/Frameworks:
 | H2 Database | Embedded database for fast development only, not preferred for production. |
 | Lombok | Reduces Java's boiler-plate codes like getters, setters. |
 | Mapstruct | Auto mapping DTOs, which is essential when applying hexagonal pattern (you mapping DTOs a lot!). |
-| Spring Cloud Counterparts (Config, Discovery Client, Gateway, Oauth2, etc) | Spring microservice's implementations. |
+| Spring Cloud Counterparts (Config, Discovery, Gateway, Oauth2, etc.) | Spring microservice's implementations. |
 | Spring Actuator | Apply production-ready features like heath checking, restart, refresh configurations, shutdown, etc. |
 | Spring Boot Devtools | Make it easier for developers. |
 
