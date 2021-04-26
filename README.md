@@ -42,4 +42,38 @@ Software development principles, patterns & practices being applied:
 
  - S.O.L.I.D (partially)
 
+========================================================
+
+Folder structure and the key Java libraries and frameworks being used:
+
+Folders:
+
+- configuration: Configuration classes for specific technologies configuration.
+- dto: contains DTOs (Data Transfer Object) as POJO Java class, there're sub folders corresponding to their functionality (httprequest, httpresponse, entity ...).
+- feignclient: Open Feign interfaces for REST Client implementation (see Open Feign Library below).
+- filter: Servlet filters.
+- input: includes Http APIs, Events, Kafka Listeners, Schedulers, etc. They're application triggers, I put all of them in 'input' folder for practical uses.
+- property: configurable properties, can be reloaded via refresh endpoint.
+- repository: Jpa Repository interfaces for Spring Data Jpa implementations. 
+- service: main logic computation here.
+- utility: utility classes.
+
+Libraries/Frameworks:
+
+- Spring Boot: today's de-facto standard that Java applications cannot be without.
+- Spring Data Jpa: more abstraction above Hibernate ORM libs leads to faster development.
+- Open Feign: makes writing java http clients easier, especially in Spring Cloud environment via service-id mapping through Eureka, client-side load balancing, etc.
+- Spring Kafka: Spring's support library for Kafka Server.
+- Spring Redis: Spring's support library for Redis Server.
+- H2 Database: embedded database for fast development only, not preferred for production.
+- Lombok: reduces Java's boiler-plate codes like getters, setters.
+- Mapstruct: auto mapping DTOs, which is essential when applying hexagonal pattern (you mapping DTOs a lot!).
+- Spring Cloud Config, Discovery Client: part of Spring microservices implementations.
+- Spring Actuator: apply production-ready features like heath checking, restart, refresh configurations, shutdown, etc.
+- Spring Boot Devtools: make it easier for developers.
+
+
+======================================================
+
+Required steps in order to get the application run on a local computer:
 
