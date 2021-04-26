@@ -48,7 +48,24 @@ Software development principles, patterns & practices being applied:
 
 
 ![image](https://user-images.githubusercontent.com/41773948/116015161-944cd080-a662-11eb-84c0-955ccb7298d8.png)
+```java
+    private final PartnerService tikiService;
+    private final PartnerService lazadaService;
+    private final PartnerService shopeeService;
 
+    public PartnerService getPartnerService(PartnerEnum partnerEnum) {
+        switch (partnerEnum) {
+            case TIKI:
+                return tikiService;
+            case LAZADA:
+                return lazadaService;
+            case SHOPEE:
+                return shopeeService;
+            default:
+                throw new IllegalStateException("Unexpected partnerEnum value: " + partnerEnum);
+        }
+    }
+```
 
 - S.O.L.I.D
 
