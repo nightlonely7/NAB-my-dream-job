@@ -7,7 +7,8 @@ These are GitHub repository URLs for all related services:
 - Product Price Service: https://github.com/nightlonely7/smart-choice-product-price-service
 - Log Service: https://github.com/nightlonely7/nab-smart-choice-log-service
 - Configuration: https://github.com/nightlonely7/nab-smart-choice-configuration
-
+- Configuration Server: https://github.com/nightlonely7/nab-smart-choice-configuration-server
+- Discovery Server: https://github.com/nightlonely7/nab-smart-choice-discovery-server
 
 =========================================================
 
